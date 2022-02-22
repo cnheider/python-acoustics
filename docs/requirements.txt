@@ -7,3 +7,4 @@ matplotlib
 six>=1.4.1
 pandas
 tabulate
+pillow>=9.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
